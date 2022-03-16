@@ -1,0 +1,30 @@
+body{
+  background-color: silver;
+}
+
+#navbarNavAltMarkup{
+  font-family: 'Lobster', cursive;
+  margin-right: 20px;
+  color: blue;
+  font-weight: bold;
+}
+
+#nav{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+.about h2{
+  text-align: center;
+  margin-top: 150px;
+}
+
+.about p{
+  color: black;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+#formulir{
+  background-color: silver;
+}
